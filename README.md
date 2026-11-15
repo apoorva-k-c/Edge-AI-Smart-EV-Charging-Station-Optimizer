@@ -78,11 +78,11 @@ The project follows this general processing flow:
 
 Edge-AI-Smart-EV-Charging-Station-Optimizer/
 │
-├── include/       # Header files
-├── lib/           # Libraries
-├── src/           # Main firmware source files
-├── test/          # Simulation and test files
-│
+├── docs/       # Dashboard screenshots
+├── include/    # Header files
+├── lib/        # Libraries
+├── src/        # Firmware source files
+├── test/       # Simulation and test files
 ├── .gitignore
 ├── README.md
 └── platformio.ini
