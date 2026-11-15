@@ -95,7 +95,37 @@ The system communicates with ThingsBoard through MQTT for telemetry monitoring a
 
 9. Project Results
 
-Project output screenshots, simulation results and ThingsBoard dashboard images will be added here.
+## ThingsBoard Dashboard & Monitoring
+
+### Charging Bay Devices
+![Charging Bay Devices](docs/charging_bay_devices.png)
+
+### Bay 1 – Latest Telemetry
+![Bay 1 Telemetry](docs/bay1_latest_telemetry.png)
+
+### Bay 2 – Latest Telemetry
+![Bay 2 Telemetry](docs/bay2_latest_telemetry.png)
+
+### Bay 3 – Latest Telemetry
+![Bay 3 Telemetry](docs/bay3_latest_telemetry.png)
+
+### Overload Alarms
+![Overload Alarms](docs/overload_alarms.png)
+
+### Notifications – New Alarms
+![New Alarm Notifications](docs/notifications_new_alarms.png)
+
+### Notifications – Alarm History
+![Alarm History](docs/notifications_alarm_history.png)
+
+### Notification Rules
+![Notification Rules](docs/notification_rules.png)
+
+### Notification Templates
+![Notification Templates](docs/notification_templates.png)
+
+### Notification Templates Overview
+![Notification Templates Overview](docs/notification_templates_overview.png)
 
 10. Future Improvements
 
